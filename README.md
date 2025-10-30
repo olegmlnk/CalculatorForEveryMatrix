@@ -1,28 +1,40 @@
-A simple console calculator written in C#, designed to demonstrate Object-Oriented Programming principles, input validation, and proper exception handling.
+Calculator for EveryMatrix
 
-Features:
+A simple console calculator written in C#, designed to demonstrate Object-Oriented Programming (OOP) principles, input validation, and proper exception handling.
 
--Supports basic arithmetic operations: +, -, *, /
+Features
 
--Input validation with clear error messages
+Supports basic arithmetic operations: +, -, *, /
 
--Handles division by zero safely
+Input validation with clear error messages
 
--Allows exiting anytime with the exit command
+Handles division by zero safely
 
--Built with clean OOP structure using interfaces, services, and factory pattern
+Allows exiting anytime with the "exit" command
 
-How to run:
-1) Clone repository git clone https://github.com/olegmlnk/CalculatorForEveryMatrix.git
-2) Navigate to the project folder: cd CalculatorForEveryMatrix
-3) Run the app: dotnet run
+Built with a clean OOP structure using interfaces, services, and the factory pattern
 
-Example usage:
+
+How to Run:
+
+Clone the repository: git clone https://github.com/olegmlnk/CalculatorForEveryMatrix.git
+
+Navigate to the project folder: cd CalculatorForEveryMatrix
+
+Run the application: dotnet run
+
+Example Usage:
+
 Welcome to Calculator!
+
 Available operations: + - * / ^
+
 Enter 'exit' to quit the program.
 
 Enter the first number: 10
+
 Enter the second number: 5
+
 Enter the operation: /
+
 Result: 2
